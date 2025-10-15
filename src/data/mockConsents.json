@@ -1,0 +1,112 @@
+[
+  {
+    "id": "c1",
+    "app": "Instagram",
+    "permission": "Location",
+    "grantedOn": "2023-08-01",
+    "lastUsed": "2025-09-10T14:32:00Z",
+    "status": "Granted",
+    "impact": "Used to show location-based ads",
+    "dataFlow": ["Google Search", "Instagram Ads"],
+    "riskLevel": "High"
+  },
+  {
+    "id": "c2",
+    "app": "Google Maps",
+    "permission": "Contacts",
+    "grantedOn": "2024-01-21",
+    "lastUsed": "2025-10-02T09:10:00Z",
+    "status": "Granted",
+    "impact": "Syncs your contacts for navigation and suggestions",
+    "dataFlow": ["Contacts Cloud"],
+    "riskLevel": "Medium"
+  },
+  {
+    "id": "c3",
+    "app": "Spotify",
+    "permission": "Microphone",
+    "grantedOn": "2023-11-12",
+    "lastUsed": "2025-08-25T15:00:00Z",
+    "status": "Granted",
+    "impact": "Used for voice command searches",
+    "dataFlow": ["Spotify Voice API"],
+    "riskLevel": "Low"
+  },
+  {
+    "id": "c4",
+    "app": "Facebook",
+    "permission": "Camera",
+    "grantedOn": "2022-07-18",
+    "lastUsed": "2025-09-12T10:20:00Z",
+    "status": "Granted",
+    "impact": "Captures profile and story photos",
+    "dataFlow": ["Meta Cloud", "Ad Engine"],
+    "riskLevel": "High"
+  },
+  {
+    "id": "c5",
+    "app": "LinkedIn",
+    "permission": "Files and Media",
+    "grantedOn": "2024-03-22",
+    "lastUsed": "2025-08-03T17:45:00Z",
+    "status": "Revoked",
+    "impact": "Access to documents for profile uploads",
+    "dataFlow": ["LinkedIn CDN"],
+    "riskLevel": "Low"
+  },
+  {
+    "id": "c6",
+    "app": "Snapchat",
+    "permission": "Location",
+    "grantedOn": "2023-05-05",
+    "lastUsed": "2025-09-29T13:15:00Z",
+    "status": "Granted",
+    "impact": "Shows nearby friends on Snap Map",
+    "dataFlow": ["Snap Cloud", "Ad Targeting Engine"],
+    "riskLevel": "High"
+  },
+  {
+    "id": "c7",
+    "app": "Twitter",
+    "permission": "Notifications",
+    "grantedOn": "2023-10-03",
+    "lastUsed": "2025-10-01T11:40:00Z",
+    "status": "Granted",
+    "impact": "Push notifications for updates and trends",
+    "dataFlow": ["Firebase Cloud Messaging"],
+    "riskLevel": "Low"
+  },
+  {
+    "id": "c8",
+    "app": "YouTube",
+    "permission": "Camera",
+    "grantedOn": "2023-06-15",
+    "lastUsed": "2025-09-14T18:55:00Z",
+    "status": "Granted",
+    "impact": "Used for video uploads",
+    "dataFlow": ["Google CDN", "YouTube Studio"],
+    "riskLevel": "Medium"
+  },
+  {
+    "id": "c9",
+    "app": "Telegram",
+    "permission": "Contacts",
+    "grantedOn": "2023-09-05",
+    "lastUsed": "2025-10-09T19:25:00Z",
+    "status": "Granted",
+    "impact": "Used to match contacts for messaging",
+    "dataFlow": ["Telegram Server"],
+    "riskLevel": "Medium"
+  },
+  {
+    "id": "c10",
+    "app": "Netflix",
+    "permission": "Storage",
+    "grantedOn": "2023-08-10",
+    "lastUsed": "2025-09-22T21:30:00Z",
+    "status": "Granted",
+    "impact": "Saves downloaded shows offline",
+    "dataFlow": ["Netflix Cloud"],
+    "riskLevel": "Low"
+  }
+]

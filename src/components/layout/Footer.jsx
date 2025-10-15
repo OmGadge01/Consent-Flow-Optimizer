@@ -1,0 +1,1 @@
+export default function Footer(){return(<footer className='text-center text-sm py-3 text-neutral-500 border-t'>© 2025 Consent Flow Optimizer</footer>);}
